@@ -1,3 +1,8 @@
+# Notes
+this project from https://github.com/ayz4sci/DownloadProgress & credit to [Ayoola Ajebeku](https://github.com/ayz4sci).
+
+because of https://dl.bintray.com is down, i made this for temporary use while the original not yet shown
+
 # DownloadProgress
 An android view showing a download progressBar, total size, downloadedSize, percentage downloaded and a cancel button of the android DownloadManager with just few lines of code. Just like Google Play downloading...
 
