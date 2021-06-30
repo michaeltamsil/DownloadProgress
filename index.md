@@ -12,7 +12,7 @@ To use this library in your android project, just simply add the following repos
 ```sh
 repositories {
     maven {
-        url 'https://dl.bintray.com/ayz4sci/maven/'
+        url 'https://dl.bintray.com/ayz4sci/maven/' // this is old & not work anymore, will update how to use it when using OSSRH
     }
 }
 
