@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.michaeltamsil</groupId>
-    <artifactId>DownloadProgressTemporary</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>OSSRH-70599</artifactId>
+    <version>1.2-SNAPSHOT</version>
     <name>Download Progress Temporary</name>
     <description>the original from from https://github.com/ayz4sci/DownloadProgress.
         i made this because have issue with dl.bintraycom
